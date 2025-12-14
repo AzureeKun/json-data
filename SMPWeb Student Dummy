@@ -10,13 +10,13 @@
       "phone_number": "0199090084"
     },
     {
-      "matric_id": "U2022/IT/014",
-      "name": "Mary Johnson",
+      "matric_id": "A203399",
+      "name": "Siti Farhana",
       "course": "Information Technology",
-      "student_year": 2,
-      "password": "Mary@2022",
-      "email": "mary.johnson@example.com",
-      "phone_number": "+2348098765432"
+      "student_year": 3,
+      "password": "Frhana2004",
+      "email": "a203399@siswa.ukm.edu.my",
+      "phone_number": "0198501780"
     }
   ]
 }

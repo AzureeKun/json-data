@@ -1,13 +1,13 @@
 {
   "students": [
     {
-      "matric_id": "U2021/CS/001",
-      "name": "John Doe",
+      "matric_id": "A203535",
+      "name": "Azrai Aizam",
       "course": "Computer Science",
       "student_year": 3,
-      "password": "P@ssw0rd123",
-      "email": "johndoe@example.com",
-      "phone_number": "+2348012345678"
+      "password": "Azrai2004",
+      "email": "a203535@siswa.ukm.edu.my",
+      "phone_number": "0199090084"
     },
     {
       "matric_id": "U2022/IT/014",

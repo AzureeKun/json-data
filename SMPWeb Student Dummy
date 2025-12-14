@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "matric_id": "U2021/CS/001",
+      "name": "John Doe",
+      "course": "Computer Science",
+      "student_year": 3,
+      "password": "P@ssw0rd123",
+      "email": "johndoe@example.com",
+      "phone_number": "+2348012345678"
+    },
+    {
+      "matric_id": "U2022/IT/014",
+      "name": "Mary Johnson",
+      "course": "Information Technology",
+      "student_year": 2,
+      "password": "Mary@2022",
+      "email": "mary.johnson@example.com",
+      "phone_number": "+2348098765432"
+    }
+  ]
+}
